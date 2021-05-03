@@ -27,35 +27,44 @@ node server.js
 <br>
 
 ### Original Java Script  Code
-![screenshot](/public/assets/img)
+![screenshot](/public/assets/img/server.JPG)
 <br>
 <br>
 
 ### original Api Route
-![screenshot](/public/assets/img)
+![screenshot](/public/assets/img/api.JPG)
 <br>
 <br>
 
 ### Original HTML Route
-![screenshot](/public/assets/img)
+![screenshot](/public/assets/img/html.JPG)
 <br>
 <br>
 
 ### Screenshot of Terminal
-![screenshot](/public/assets/img)
+![screenshot](/public/assets/img/terminal.JPG)
 <br>
 <br>
 
 ### Demo fullsize screenshot 1
-![screenshot](/public/assets/img/terminal.JPG)
-
+![screenshot](/public/assets/img/demo1.png)
 <br>
 <br>
 
 ### Demo fullsize screenshot 2
-![screenshot](/public/assets/img/terminal.JPG)
+![screenshot](/public/assets/img/demo2.png)
 
+<br>
+<br>
 
+### screenshot final app  1
+![screenshot](/public/assets/img/full.png)
+
+<br>
+<br>
+
+### screenshot final app 2
+![screenshot](/public/assets/img/full2.png)
 
 <br>
 <br>
